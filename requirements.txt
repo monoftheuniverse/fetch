@@ -1,0 +1,5 @@
+awscli==1.29.8
+awscli-local==0.21
+psycopg2==2.9.6
+pandas==2.0.3
+sqlalchemy==2.0.19
